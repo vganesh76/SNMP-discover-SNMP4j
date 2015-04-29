@@ -1,0 +1,1 @@
+A simple program to discover / ping SNMP device using SNMP4j API.
